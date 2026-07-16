@@ -28,6 +28,20 @@ If you're new to GitHub, follow these 4 steps:
 3. Add a file named `PROFILE.md` containing: `Welcome to my GitHub profile!` and commit it.
 4. Open a pull request into the repository's default branch and merge it.
 
+
+Quick CLI (optional)
+
+```bash
+# create a branch and switch to it
+git checkout -b my-first-branch
+
+# create the PROFILE.md file, commit, and push
+echo "Welcome to my GitHub profile!" > PROFILE.md
+git add PROFILE.md
+git commit -m "Add PROFILE.md"
+git push -u origin my-first-branch
+```
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
