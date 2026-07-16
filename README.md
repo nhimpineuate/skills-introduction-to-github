@@ -19,6 +19,16 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Beginner quick instructions
+
+If you're brand new to GitHub, follow these steps in order:
+
+1. Copy this repository to your account using the **Copy Exercise** button below.
+2. Open your copied repository and create a branch named `my-first-branch`.
+3. Add a new file named `PROFILE.md` with the text `Welcome to my GitHub profile!` and commit it.
+4. Open a pull request from `my-first-branch` into `main`.
+5. Merge the pull request and delete the branch.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
