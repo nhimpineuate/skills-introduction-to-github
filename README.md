@@ -1,6 +1,6 @@
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 ## Beginner quick instructions
 
@@ -33,3 +33,15 @@ Copy the exercise to your account, then give Mona about 20 seconds to prepare th
 ---
 
 © 2026 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
+Hey nhimpineuate!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
+
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/nhimpineuate/skills-introduction-to-github/issues/2)
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
